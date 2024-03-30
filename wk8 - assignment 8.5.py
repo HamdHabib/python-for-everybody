@@ -13,3 +13,5 @@ for each in fh:
 for each in data:
     print(each)
 print("There were", len(data), "lines in the file with From as the first word")
+
+
